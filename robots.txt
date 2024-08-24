@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sweptsal.github.io/sitemap/sitemap.txt
